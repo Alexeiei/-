@@ -1,2 +1,1 @@
-npx @vkontakte/create-vk-mini-app <app-directory-name> --zeit
-
+npx @vkontakte/create-vk-mini-app autoexpert
